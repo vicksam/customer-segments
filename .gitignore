@@ -11,3 +11,9 @@ ipython_config.py
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Datasets
+AZDIAS_Feature_Summary.csv
+AZDIAS_Subset.csv
+CUSTOMERS_Subset.csv
+Data_Dictionary.md
