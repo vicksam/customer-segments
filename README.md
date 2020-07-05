@@ -1,7 +1,37 @@
 # Identifying Customer Segments
 
-In this project I identify customer segments on real-life business and public data.
+I help a German company to target the right audience in its marketing campaign.
 
 ### Overview
 
-I use unsupervised learning algorithms to help a company target the right audiences in their marketing efforts. The data needs a fair amount of pre-processing before the analysis.
+I work on real-life business datasets and apply unsupervised learning algorithms to identify the customer segments. These are the groups that are especially popular among customers compared to the general population.
+
+### Methods
+
+* Principal component analysis (PCA)
+* K-Means algorithm
+
+### Technologies
+
+* Python
+* Matplotlib
+* NumPy
+* Pandas
+* Scikit-learn
+* Seaborn
+
+## How to use
+
+To take a look at the results, just click on `customer-segments.ipynb` and it should open automatically.
+
+Alternatively you can download the file `customer-segments.html` and open it in your browser to see the results.
+
+## Dataset
+
+Data for this project was provided by the Bertlesmann Arvato Analytics and is not available to the public.
+
+There are two datasets, one concerning the general population and the other one concerning the customers.
+
+#### Size
+
+Both datasets have the same structure and contain information about 85 features. The general one contains 891 211 observations, while the consumer one contains 191 652.
