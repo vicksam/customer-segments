@@ -22,9 +22,9 @@ I work on real-life business datasets and apply unsupervised learning algorithms
 
 ## How to use
 
-To take a look at the results, just click on `customer-segments.ipynb` and it should open automatically.
+To take a look at the results, just click on `customer_segments.ipynb` and it should open automatically.
 
-Alternatively you can download the file `customer-segments.html` and open it in your browser to see the results.
+Alternatively you can download the file `customer_segments.html` and open it in your browser to see the results.
 
 ## Dataset
 
